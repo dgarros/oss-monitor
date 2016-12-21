@@ -1,6 +1,6 @@
 requests
 requests-*.dist-info
-Archive.zip
+awslambda.zip
 PyYAML-*.dist-info
 __init__.py
 yaml
