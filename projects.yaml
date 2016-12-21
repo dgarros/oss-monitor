@@ -6,3 +6,5 @@ github:
   - Juniper/py-junos-eznc
   - Juniper/wistar
   - digitalocean/netbox
+  - Juniper/vqfx10k-vagrant
+  - JNPRAutomate/fluent-plugin-juniper-telemetry
