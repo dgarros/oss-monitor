@@ -1,0 +1,8 @@
+github:
+  - Juniper/open-nti
+  - JNPRAutomate/ansible-junos-evpn-vxlan
+  - kubernetes/kubernetes
+  - ansible/ansible
+  - Juniper/py-junos-eznc
+  - Juniper/wistar
+  - digitalocean/netbox
