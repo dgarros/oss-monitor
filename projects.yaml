@@ -8,3 +8,5 @@ github:
   - digitalocean/netbox
   - Juniper/vqfx10k-vagrant
   - JNPRAutomate/fluent-plugin-juniper-telemetry
+  - Apstra/aeon-ztps
+  - Apstra/aos-pyez
