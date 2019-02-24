@@ -13,3 +13,4 @@ github:
   - kataras/iris
   - mayuresh82/alert_manager
   - dgarros/py-metric-collector
+  - attic-labs/noms
