@@ -10,3 +10,6 @@ github:
   - JNPRAutomate/fluent-plugin-juniper-telemetry
   - Apstra/aeon-ztps
   - Apstra/aos-pyez
+  - kataras/iris
+  - mayuresh82/alert_manager
+  - dgarros/py-metric-collector
