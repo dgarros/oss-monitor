@@ -14,3 +14,4 @@ github:
   - mayuresh82/alert_manager
   - dgarros/py-metric-collector
   - attic-labs/noms
+  - cayleygraph/cayley
